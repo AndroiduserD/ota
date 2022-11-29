@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Weritos",
+			"oem": "OnePlus",
+			"device": "OnePlus 6",
+			"filename": "riceDroid-13.0-2022112918-enchilada-v8.5-Gapps-UNOFFICIAL.zip",
+			"download": "",
+			"timestamp": 1669727524,
+			"md5": "22464e6b39f67db4711bf00af42887be",
+			"sha256": "75550a4e3f5187fb42b1c50cf49d5403ba12440b2534e6e9bfc07e5e170fa1c9",
+			"size": 1490800405,
+			"version": "8.5",
+			"buildtype": "Weekly",
+			"forum": "https://t.me/enchilada_a13",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Weritos666",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
