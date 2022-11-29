@@ -1,0 +1,6 @@
+Maintainer: Weritos
+Device:
+- Switch kernel (mcd R19)
+- Add OTA Update
+Source:
+- Source UP
