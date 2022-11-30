@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Weritos",
+			"oem": "OnePlus",
+			"device": "OnePlus 6T",
+			"filename": "riceDroid-13.0-2022112008-fajita-v8.0-GMS-OFFICIAL.zip",
+			"download": "",
+			"timestamp": 1668934452,
+			"md5": "43aec52e3a266d925e1044f1d1b1a149",
+			"sha256": "c45903c1c89b8c07077b8210b2ff069a4b1a93dfa807b7110832faa7fa673fcb",
+			"size": 1464253310,
+			"version": "8.0",
+			"buildtype": "Weekly",
+			"forum": "https://t.me/enchilada_a13",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/Weritos666",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
